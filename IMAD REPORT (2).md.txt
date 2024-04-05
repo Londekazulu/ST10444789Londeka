@@ -1,0 +1,79 @@
+﻿**<u>3. Create a New GitHub Repository:</u>**
+
+Go to the GitHub website (https://github.com/) and sign in to your
+account.
+
+Click on the "+" icon in the top right corner and select "New
+repository".
+
+Give your repository a name (my student number and name – in one word),
+added description (use IMAD5112 Assignment 1) and choose public.
+
+Click on the "Create repository" button.
+
+2\. Initialise the Repository with a README File:
+
+After creating the repository, you'll see an option to "Initialize this
+repository with a README". Check this option to create a README file.
+
+Click on the "Create repository" button to finalize the creation of the
+repository.
+
+3\. Commit and Push Your Project Files to the GitHub Repository:
+
+In Android Studio, go to VCS (Version Control System) -> Import into
+Version Control -> Share Project on GitHub.
+
+Log in to your GitHub account if prompted and select the repository you
+created earlier.
+
+Click on the "Share" button to push your project files to the GitHub
+repository.
+
+4\. Regularly Commit and Push Your Code as You Make Progress:
+
+After the initial push, continue making changes to your project in
+Android Studio.
+
+Whenever you make significant progress or changes, commit your changes
+locally in Android Studio using VCS -> Commit Changes.
+
+Once committed, push your changes to the GitHub repository using VCS ->
+Git -> Push.
+
+**Here is a link to the GitHub Repository**
+
+[VCPTA/haw1-imad5112-part1-submission-Londekazulu:
+haw1-imad5112-part1-submission-Londekazulu created by GitHub
+Classroom](https://github.com/VCPTA/haw1-imad5112-part1-submission-Londekazulu)
+
+**<u>4. Link To YouTube Video</u>**
+
+[**https://youtu.be/35BIuHpdPzI**](https://youtu.be/35BIuHpdPzI)
+
+**<u>5. Reference</u>**
+
+Andrews, W.L.S., Ault, B.S., Berry, M.J. and Moore, C.B., 1991.
+Biography of George C. Pimentel. *The Journal of Physical
+Chemistry*, *95*(7), pp.2607-2615.
+
+Barnhill, J., 2019. Marvin Gaye's What's Going On and the Civil Rights
+Movement: A History and Analysis.
+
+Brown, T.J., 2005. Reaffirming African American cultural values: Tupac
+Shakur's Greatest Hits as a musical autobiography. *Western Journal of
+Black Studies*, *29*(1).
+
+Carr, S.A., 1992. On the Edge of Tastelessness: CBS, the Smothers
+Brothers and the Struggle for Control. *Cinema Journal*, *31*(4),
+pp.3-24.
+
+Iandoli, K., 2021. *Baby Girl: Better Known as Aaliyah*. Simon and
+Schuster.
+
+Johnstone, N., 2011. *Amy Amy Amy: The Amy Winehouse Story: The Amy
+Winehouse Story*. Omnibus Press.
+
+Lang, H., 2007. *The Notorious BIG: A Biography*. Bloomsbury Publishing
+USA.
+
